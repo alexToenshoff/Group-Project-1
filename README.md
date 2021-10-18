@@ -4,11 +4,11 @@ FinTech Stocks vs. Crypto Portfolio Analysis
 
 5-year historical performance analysis comparing three different portfolios:
 
-# # Financial portfolio: VISA, SQUARE, PAYPAL, MASTERCARD, AMEX
+Financial portfolio: VISA, SQUARE, PAYPAL, MASTERCARD, AMEX
 
-# # Technology portfolio: FACEBOOK, AMAZON, APPLE, NETFLIX, GOOGLE
+Technology portfolio: FACEBOOK, AMAZON, APPLE, NETFLIX, GOOGLE
 
-# # Crypto portfolio: BITCOIN, ETHEREUM, LITECOIN, CARDANO, DOGECOIN
+Crypto portfolio: BITCOIN, ETHEREUM, LITECOIN, CARDANO, DOGECOIN
 
 ## Questions Summary
 Q: Has investing in a basket of cryptos outperformed investing in a basket of FinTech stocks the last 5 years or vice versa?
